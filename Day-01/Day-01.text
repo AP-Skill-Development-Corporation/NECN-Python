@@ -1,0 +1,63 @@
+Day-01:
+=======
+	Good Afternoon to All..
+
+	Python:
+	=======
+		-> python 2.x
+		-> python 3.x
+
+	Python Installation:
+	====================
+		-> http://python.org => site
+
+		-> Stable releases 
+			=> Based on operating system you need to select the bit.
+			=> Then download it [For windows you need to donwlaod only .exe]
+
+		-> Steps for installing:
+		-------------------------
+			=> After Downloading you need to double click on the software
+			=> Select "Install Now" option then it will installs at "c:\users\AppData\Local\Programs\Python\Python3x\"
+			=> You need to install it for "All Users" and tick the Last option i.e., "Add Python 3.x path to environment variables"
+			=> Then Click on Next for further steps
+			=> After Installation done then click on "Finish" to complete the installation Process
+
+	Python checking:
+	================
+		-> python -V
+
+	------------------	
+	To install third party packages you need to check pip is configured and installed correctly
+	------------------
+
+	Pip checking:
+	=============
+		-> pip -V
+
+	Different Ways of Executing Python Program:
+	===========================================
+	- Basic Procedure
+	- Advanced Editor
+	- IDLE[Python Shell]
+	- Jupyter Notebook
+
+	=> Basic Procedure:
+	===================
+		-> Notepad + Interpreter
+
+		Execution Process
+		-----------------
+		-> Need to Navigate for the file location and open the path location in command prompt
+		-> python "filename.extension"
+					[or]
+		-> "filename.extension"
+
+	=> Advanced Editors:
+	====================
+		-> Geany,sublime,atom,notepad++ etc., + Interpreter
+
+		Execution Process:
+		==================
+		-> For different editors have different shortcuts and with file extensions to create the required source code in it.
+		-> Output will be displayed in command prompt no need to type commands in command prompt.
