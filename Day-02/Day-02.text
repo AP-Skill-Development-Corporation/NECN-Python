@@ -1,0 +1,60 @@
+Day-02[23-11-2021]:
+===================
+	Good Morning to All..
+
+	https://github.com/AP-Skill-Development-Corporation
+
+	IDLE[Integrated Development Learning Environment]:
+	=================================================
+	-> Python Shell
+	-> f5 to execute a program
+
+	Jupyter Notebook Installation:
+	==============================
+	-> Check the pip is installed correctly or not.
+	-> Check the version of pip by using the command
+		=> pip -V
+	-> pip is used for installing third party packages like "numpy,pandas etc.,"
+	-> To install jupyter we need to open command prompt and type the command
+		=> pip install jupyter notebook
+	-> After installation complete thne we need to check in search of apps
+
+	Literate Programming:
+	=====================
+	-> Markdown Format + Coding Format
+	-> .ipynb
+	-> I => Interactive
+	-> Py => Python
+	-> Nb => Notebook
+	-> In Each format it consists of 2 modes 
+		=> Edit mode => Green 
+		=> Code mode => Blue
+
+	Python basics:
+	==============
+
+	Variables:
+	==========
+		-> To store a value
+		-> To change a value
+
+	Data types:
+	===========
+		- int
+		- float
+		- string
+		- complex
+		- [All Data structures]
+
+	Input Formatting:
+	=================
+		-> input()
+			-> Acts like priniting and reading a value from user
+		-> By default the value is in "String" Data type
+
+	Output formatting:
+	==================
+		-> %
+		-> ,
+		-> .format => pyformat.info => For all different ways of output formats by using .format
+
