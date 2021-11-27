@@ -17,3 +17,13 @@ Python Workshop
   - Conditional statements with sample examples on each
   - Control statements with sample example on for
   - Practiced sample examples on Hackerrank 
+
+## Day-05(25-11-2021):
+  - Set,Dictionary,strings and its methods with sample examples on each
+  - Functions and its types with sample examples on each
+  - Functions arguments and its types with sample examples on each
+
+## Day-06(26-11-2021):
+  - Comprehensions and its types with sample examples on each
+  - Functional programming with sample examples on each
+  - Files concept with sample examples
