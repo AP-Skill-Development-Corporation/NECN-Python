@@ -1,0 +1,5 @@
+Name.MobileNo,EmailId
+Abdul,9856230147,abdul@gmail.com
+Mohammad,7894562103,mohammad@gmail.com
+Abdulla,7845963210,abdulla2gmail.com
+985461237,myname#gmail.com,myname
